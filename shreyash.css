@@ -255,7 +255,10 @@ span{
 .portfolio-box img{
     width: 100%;
     transition: .5s ease;
-    opacity: 0.7;
+    opacity: 0.8;
+}
+#personalImg{
+    height: 102%;
 }
 .portfolio-box:hover img{
     transform: scale(1.1);
